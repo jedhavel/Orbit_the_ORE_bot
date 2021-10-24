@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#### Secrets
+secrets.py
+statemachine.py
+
 # C extensions
 *.so
 
