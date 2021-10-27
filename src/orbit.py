@@ -21,7 +21,7 @@ else:
 dataloc = os.path.join("..", "data") # rel path to the data folder
 linkfile = os.path.join(dataloc, LINKFILE)
 shillfile = os.path.join(dataloc, SHILLFILE)
-
+spanishshillfile = os.path.join(dataloc, SPANISH_SHILLFILE)
 
 
 # Create an updater object with our API Key
@@ -69,6 +69,7 @@ def contract(update_obj, context):
     return telegram.ext.ConversationHandler.END
 
 def shill(update_obj, context):
+    if
     update_obj.message.reply_text(readshill(shillfile))
     # end the conversation
     return telegram.ext.ConversationHandler.END

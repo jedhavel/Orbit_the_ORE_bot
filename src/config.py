@@ -1,6 +1,6 @@
-LINKFILE = "links.txt"
-SHILLFILE = "shill.txt"
-
+LINKFILE = "links.md"
+SHILLFILE = "shill.md"
+SPANISH_SHILLFILE = "spanish-shill.md"
 ## Set ENV to "PROD" for production
 ENV = "TEST"
 # ENV = "PROD"

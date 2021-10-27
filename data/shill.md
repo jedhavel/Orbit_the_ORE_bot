@@ -4,40 +4,37 @@ The ORE Token's primary utility is backing in-game currencies for video games, a
 
 ORE Token forms the bedrock of the ORE-System.com , a three-component holistic crypto ecosystem designed to generate long term revenue for investors.
 
-NEWS
+__NEWS__
 
-__Project Stealth__
+**Project Stealth**
 
-Project Stealth (117A) is a game distribution platform aimed at grabbing market share from Steam... While doing the initial work to get the system started, Steam did us a huge favor and banned from their platform our target market segment... _SO YEAH, ITS SAFE TO SAY WE CAN HAZ CHEEZBURGER_
+_Project Stealth (117A)_ is a game distribution platform aimed at grabbing market share from Steam... While doing the initial work to get the system started, Steam did us a huge favor and banned from their platform our target market segment... _SO YEAH, ITS SAFE TO SAY WE CAN HAZ CHEEZBURGER_
 
-__Project MicroGrav__
+**Project MicroGrav**
 
-Project MicroGrav is a skunkwork marketing activity involving super cool moon boots with ORE Tech integration... stay tuned for lunar landing
+_Project MicroGrav_ is a skunkwork marketing activity involving super cool moon boots with ORE Tech integration... stay tuned for lunar landing
 
 __ORE System__
 
-- ORE Forge - Launch Oct 3rd
+- [ORE Forge](ore-forge.com) - Launch Oct 3rd
 
 The Ore Forge is a user-friendly NFT Marketplace, enabling artists and content-creators to bypass the technical side of minting and distributing their digital assets directly to collectors and studios. The artist remains in complete control of their IP whether making new COD camos or dropping a sick new dub.
 
-- ORE SDK - Launch Oct 3rd
+- [ORE SDK](sdk.ore-system.com) - Launch Oct 3rd
 
 Licensing the ORE Software Development Kit enables developers and studios to  implement NFT and crypto in their games or other virtual environments without becoming blockchain engineers themselves. In one to two lines of code a developer can support custom NFT items from the blockchain and back their in-game currency with ORE Token.
 
-- ORE Token -
+- [ORE Token](https://fegex.com/trade/bsc/0x450ed67ed1631937fd4fe86dae6cddffa5852b9a) -
 Is available now at Contract Address: 0x8e2D8f40818FbaBA663Db6a24FB9B527Fc7100BE .
 The big day won't be until Oct 3rd when the whole system goes live.
 
-Devs current priority is the CMC and CG listings, heavy adverts and marketing starting monday the 20th, and deployment of the ORE Forge!
 
 _The Whole Enchilada_
 
-What this means is that the ORE Token is an integral part of a long-term ecosystem. It is only available pre-launch because the devs wanted to shake out as much volatility as possible before the rest of the components launch. ORE Token is long-term value. ORE Token is literally *GAME CHANGING*
-
-The ORE Token is the bedrock of the ORE System. We must invest in the community to ensure that the ORE Forge and ultimately, the ORE SDK (which we will license to developers) can take the market
+The ORE Token is the bedrock of the *ORE System*. We must invest in the community to ensure that the ORE Forge and ultimately, the *ORE SDK* (which we will license to developers) can take the market
 
 Blockchain security with Multiple audit assurances
-* CertiK - **DONE SON**
+* [CertiK](https://www.certik.org/projects/ore-system) - **DONE SON**
 * DrivenX Security - Coming Soon
 * Consensys
 * Completed Successfully - 2 Low Risk findings that
